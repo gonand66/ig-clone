@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    background-color: white;
+    object-fit: contain;
+    padding: 10px;
+    padding-left: 10%;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 20px;
+    justify-content: space-between;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
